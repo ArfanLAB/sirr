@@ -1,0 +1,6 @@
+{
+  "name": "Black Grid Gradient",
+  "description": "Minimalist black grid gradient background experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
